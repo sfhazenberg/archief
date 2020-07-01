@@ -1,4 +1,4 @@
-#Brief Python script which copies files based on Excel input
+#Kort Python-script dat bestanden kopieert m.b.v. een Excel-sheet. Gebruikt voor een klus bij een vorige baas
 
 print("About to copy files")
 
