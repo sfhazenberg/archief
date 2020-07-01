@@ -1,1 +1,1 @@
-Uit de hand gelopen Unity-tutorial (https://learn.unity.com/project/roll-a-ball-tutorial)
+Dit project begon met het volgen van een Unity-tutorial en is uit de hand gelopen toen ik allerhande ideeën kreeg. Tutorial in kwestie: https://learn.unity.com/project/roll-a-ball-tutorial
