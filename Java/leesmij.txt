@@ -1,2 +1,3 @@
-Galgje
-Boter-kaas-eieren (JavaFundamentals --> Part_09)
+Galgje. Begon bij een Sogeti-cursusavond en heb ik later zelf voltooid.
+
+JavaFundamentals. Opdrachten van een java-cursus binnen Sogeti. Uiteindelijke opdracht was het maken van boter-kaas-eieren. (JavaFundamentals --> Part_09)
