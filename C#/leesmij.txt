@@ -1,3 +1,3 @@
 Dit project begon met het volgen van een Unity-tutorial en is uit de hand gelopen toen ik allerhande ideeën kreeg. Tutorial in kwestie: https://learn.unity.com/project/roll-a-ball-tutorial
-
 Executable (ImBallNiceToMeetYou.exe) kan worden gedownload en stand-alone draaien. Unity oid hoeft niet geïnstalleerd te zijn.
+Alle code staat in Assets/Scripts/. Waarschuwing: dit was mijn eerste 'echte' project, dus het is niet echt georganiseerd. :p
