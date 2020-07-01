@@ -1,1 +1,5 @@
 Allerhande projectjes
+
+AD_moederschip.au3 = GUI waarmee het opvragen van bepaalde groepen, gebruikers en rechten uit het AD (Active Directory) gestroomlijnd wordt. Kan tevens opgevraagde lijsten naar Excel exporteren. (oude versie)
+keyboard_C3-B5.au3 = is precies wat je denkt dat het is. Bereik van 3 octaven.
+replaceText.au3 = Script dat de tweede regel van adresgegevens op v/e document opzoekt en vervangt met input v/d gebruiker.
